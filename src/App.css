@@ -1,0 +1,113 @@
+/* General App Styles */
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Form Styling */
+.form {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.url-input {
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.submit-btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #45a049;
+}
+
+/* Loading and Error Messages */
+.loading {
+  font-size: 1rem;
+  color: #666;
+}
+
+.error {
+  color: red;
+  font-size: 1rem;
+}
+
+/* Review Cards */
+.reviews-container {
+  width: 100%;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.review-count {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.reviews {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.review-card {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.review-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.review-rating,
+.reviewer,
+.review-body {
+  font-size: 1rem;
+  margin: 5px 0;
+}
+
+/* JSON Data Display */
+.json-container {
+  margin-top: 40px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.json-data {
+  background-color: #282c34;
+  color: #f1f1f1;
+  padding: 20px;
+  border-radius: 8px;
+  font-family: 'Courier New', monospace;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
