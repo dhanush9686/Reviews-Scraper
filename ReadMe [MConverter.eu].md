@@ -32,7 +32,7 @@ extraction structured review information from raw HTML*
     1.  *The extracted data is formatted as JSON and returned as the API
         response*
 
-***[System Architecture:]{.underline}***
+***[System Architecture:]***
 
 ![](media/image1.png){width="6.268055555555556in" height="2.90625in"}
 
