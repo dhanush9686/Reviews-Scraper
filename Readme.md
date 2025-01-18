@@ -34,7 +34,7 @@ extraction structured review information from raw HTML*
 
 ***System Architecture:***
 
-![](media/image1.png){width="6.268055555555556in" height="2.90625in"}
+![](media/image1.png)
 
 ***How to run the project:***
 
@@ -63,10 +63,9 @@ extraction structured review information from raw HTML*
 
 > ***Output:***
 >
-> ![](media/image2.png){width="6.268055555555556in"
-> height="2.9965277777777777in"}
+> ![](media/image2.png)
 >
-> ![](media/image3.png){width="6.268055555555556in" height="5.3375in"}
+> ![](media/image3.png)
 >
 > ***If any issues, please react out to me on:***
 >
