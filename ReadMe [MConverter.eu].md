@@ -1,13 +1,13 @@
-***[Web Scraping API with Review Extraction using LLMs]{.underline}***
+***Web Scraping API with Review Extraction using LLMs***
 
-***[Introduction:]{.underline}***
+***Introduction:***
 
 *This project is Flask-based web scraping API that extracts review data
 from product pages. It uses Selenium for browser automation,
 BeautifulSoup for HTML parsing, and OpenAI's GPT API for intelligently
 extraction structured review information from raw HTML*
 
-***[Solution Approach:]{.underline}***
+***Solution Approach:***
 
 1.  ***Web Page Scraping:***
 
@@ -32,11 +32,11 @@ extraction structured review information from raw HTML*
     1.  *The extracted data is formatted as JSON and returned as the API
         response*
 
-***[System Architecture:]***
+***System Architecture:***
 
 ![](media/image1.png){width="6.268055555555556in" height="2.90625in"}
 
-***[How to run the project:]{.underline}***
+***How to run the project:***
 
 1.  *Install the requirements as specified in the requirements.txt file*
 
@@ -61,7 +61,7 @@ extraction structured review information from raw HTML*
 8.  *Enter the URL in the input space provided and then run and wait for
     a while for the results to be loaded onto the webpage.*
 
-> ***[Output:]{.underline}***
+> ***Output:***
 >
 > ![](media/image2.png){width="6.268055555555556in"
 > height="2.9965277777777777in"}
